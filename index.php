@@ -8,12 +8,12 @@
 	<title>Solusi Perut Buncit Diet 10 Hari</title>
 	<meta name="robots" content="index,follow">
 	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="LandingKit LandingPress">
-	<meta property="og:url" content="https://landingpress.landingkit.co/029-dietly/">
-	<link rel="alternate" type="application/rss+xml" title="LandingKit LandingPress » Feed"
-		href="https://landingpress.landingkit.co/feed/">
-	<link rel="alternate" type="application/rss+xml" title="LandingKit LandingPress » Comments Feed"
-		href="https://landingpress.landingkit.co/comments/feed/">
+	<meta property="og:site_name" content="Diet 10 Hari Hasil Maksimal">
+	<meta property="og:url" content="https://dietyuk.herokuapp.com/">
+	<link rel="alternate" type="application/rss+xml" title="Diet Yuk - Diet 10 Hari Hasil Maksimal"
+		href="https://dietyuk.herokuapp.com/">
+	<link rel="alternate" type="application/rss+xml" title="Diet Yuk - Diet 10 Hari Hasil Maksimal"
+		href="https://dietyuk.herokuapp.com/">
 	<link rel="stylesheet" id="font-awesome-css"
 		href="./assets/font-awesome.min.css" type="text/css" media="all">
 	<link rel="stylesheet" id="wp-block-library-css" href="./assets/style.min.css"
@@ -3447,8 +3447,8 @@
 	</style>
 	<link rel="stylesheet" id="landingpress-css" href="./assets/style.css"
 		type="text/css" media="all">
-	<link rel="canonical" href="https://landingpress.landingkit.co/029-dietly/">
-	<link rel="shortlink" href="https://landingpress.landingkit.co/?p=4836">
+	<link rel="canonical" href="https://dietyuk.herokuapp.com/">
+	<link rel="shortlink" href="https://dietyuk.herokuapp.com/">
 	<link rel="stylesheet" type="text/css" href="./assets/css">
 </head>
 
